@@ -27,3 +27,11 @@ This project helps job seekers improve their resumes by highlighting strengths, 
 ---
 
 ## 📂 Project Structure
+Resume-Critique/
+│── src/ # Source code
+│── .env # Environment file (ignored in Git)
+│── .gitignore # Files to ignore in Git
+│── README.md # Project documentation
+│── LICENSE # License file
+│── requirements.txt # Python dependencies (if used)
+│── package.json # Node.js dependencies (if used)
