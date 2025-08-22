@@ -19,8 +19,8 @@ This project helps job seekers improve their resumes by highlighting strengths, 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** VS Code (HTML, CSS, JS / React if used)
-- **Backend:** Python / Node.js (depending on your implementation)
+- **Frontend:** VS Code (Streamlit)
+- **Backend:** Python 
 - **AI API:** Groq API
 - **Other Tools:** Git, GitHub
 
