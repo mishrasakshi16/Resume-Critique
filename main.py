@@ -8,7 +8,7 @@ from langchain.schema import HumanMessage, SystemMessage
 
 # Load API key from .env
 #load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+groq_api_key = st.secrets["GROQ_API_KEY"]
 
 st.set_page_config(page_title="AI Resume Critiquer (Groq)", page_icon="📃", layout="centered")
 
